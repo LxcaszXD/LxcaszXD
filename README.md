@@ -1,8 +1,3 @@
-# 👋 Olá, eu sou Lucas Henrique
-
-💻 Desenvolvedor Full-Stack | 🚀 Apaixonado por tecnologia e inovação  
-🎯 Foco: Desenvolvimento Web
-
 ## 🧑‍🎓 Meus Estudos
 
 Atualmente, estou me dedicando ao estudo e aprimoramento em **Análise e Desenvolvimento de Sistemas** na instituição de ensino **Universidade Cruzeiro do Sul**.  
@@ -14,7 +9,7 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
 
 <a href="https://github.com/LxcaszXD">
   <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LxcaszXD&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&cache_seconds=3600"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&cache_seconds=3600"/>
 </a>
 
 
