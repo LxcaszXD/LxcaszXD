@@ -8,10 +8,9 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
 ## 📊 Estatísticas do GitHub
 
 <a href="https://github.com/LxcaszXD">
-  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LxcaszXD&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats-ak8ysy2pw-lxcaszxds-projects.vercel.app/api?username=LxcaszXD&include_all_commits=true&count_private=true&theme=nord&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-ak8ysy2pw-lxcaszxds-projects.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&count_private=true"/>
 </a>
-
 
 ## 🚀 Tecnologias que utilizo
 
