@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à 00:00 UTC
+  workflow_dispatch:      # permite rodar manualmente em Actions
+  push:
+    branches: ["main"]    # opcional: também roda a cada push na main
+
+permissions:
+  contents: write         # necessário para publicar arquivos
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Gera somente SVG (mais rápido e estável), usando a v3
+      - name: Generate Snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Publica os SVGs na branch "output"
+      - name: Publish to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output     # branch de destino
+          folder: dist       # publica tudo que estiver em dist/
