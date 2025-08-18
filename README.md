@@ -13,8 +13,8 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
 ## 📊 Estatísticas do GitHub
 
 <a href="https://github.com/LxcaszXD">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LxcaszXD&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&cache_seconds=3600"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LxcaszXD&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxcaszXD&layout=compact&langs_count=8&theme=nord&cache_seconds=3600"/>
 </a>
 
 
@@ -42,4 +42,10 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/main/output/github-contribution-grid-snake.svg)
+<!-- Snake: light/dark automático -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/output/github-contribution-grid-snake.svg" />
+</picture>
+
