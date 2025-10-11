@@ -34,7 +34,7 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
 <a href="https://www.linkedin.com/in/lucas-henrique-da-silva-gon%C3%A7alves/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href="mailto:lxcaszwork@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lxcaszwork@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
