@@ -1,7 +1,10 @@
 ## 🧑‍🎓 Meus Estudos
 
-Atualmente, estou me dedicando ao estudo e aprimoramento em **Análise e Desenvolvimento de Sistemas** na instituição de ensino **Universidade Cruzeiro do Sul**.  
-Além disso, sou formado em **Técnico em Informática para Internet** pelo **Senac São Paulo**, e estou sempre buscando novos conhecimentos e tecnologias para me tornar um desenvolvedor mais completo e preparado para desafios reais.
+Sou desenvolvedor **Full-Stack** com foco em **JavaScript** e **TypeScript**, atuando no desenvolvimento de aplicações web modernas utilizando **React**, **Next.js**, **Node.js** e **MySQL**. Tenho experiência na criação de interfaces responsivas, desenvolvimento de **APIs** e integração com bancos de dados.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul** e sou formado em **Técnico em Informática para Internet** pelo **Senac São Paulo**. Durante minha formação, desenvolvi projetos envolvendo desenvolvimento web completo, arquitetura de aplicações e boas práticas de versionamento e colaboração com **Git**.
+
+Tenho interesse em **Desenvolvimento Full-Stack**, buscando constantemente evoluir minhas habilidades técnicas e contribuir em projetos que gerem impacto real.
 
 ---
 
@@ -15,30 +18,39 @@ Além disso, sou formado em **Técnico em Informática para Internet** pelo **Se
 
 ## 🚀 Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Lucas-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-PWA" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pwa.svg">
-  <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /> 
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/lucas-henrique-da-silva-gon%C3%A7alves/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lxcaszwork@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<div>
+<a href="https://linkedin.com/in/SEU-USUARIO](https://linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/lucas-henrique-da-silva-gon%C3%A7alves/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<!-- Snake: light/dark automático -->
+<a href="mailto:seuemail@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=lxcaszwork@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LxcaszXD/LxcaszXD/output/github-contribution-grid-snake.svg" />
