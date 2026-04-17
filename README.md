@@ -42,11 +42,11 @@ Tenho interesse em **Desenvolvimento Full-Stack**, buscando constantemente evolu
 ## 🌐 Contato
 
 <div>
-<a href="https://linkedin.com/in/SEU-USUARIO](https://linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/lucas-henrique-da-silva-gon%C3%A7alves/">
+<a href="https://www.linkedin.com/in/lucas-henrique-da-silva-gon%C3%A7alves/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:seuemail@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=lxcaszwork@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lxcaszwork@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </div>
